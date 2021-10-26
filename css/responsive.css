@@ -1,0 +1,222 @@
+/*25531351*/
+
+@media screen and (max-width: 950px) {
+
+    #about-part .img .item2 {
+        right: -100px;
+        top: -170px;
+        padding: 10px;
+
+    }
+
+    #about-part .img .item1 {
+        left: -100px;
+        top: -170px;
+        padding: 10px;
+
+    }
+
+
+    #about-part .img .item3 {
+        left: -100px;
+        top: 245px;
+        padding: 10px;
+
+    }
+
+    #about-part .img .item4 {
+        right: -100px;
+        top: 245px;
+        padding: 10px;
+
+    }
+
+
+    #about-part .img .item2 h2,
+    #about-part .img .item1 h2,
+    #about-part .img .item3 h2,
+    #about-part .img .item4 h2 {
+        font-size: 14px;
+    }
+
+
+
+    #about-part .img .item2 p,
+    #about-part .img .item1 p,
+    #about-part .img .item3 p,
+    #about-part .img .item4 p {
+        font-size: 11px;
+        width: 150px;
+    }
+
+
+
+
+    #about-part .img {
+        width: 280px;
+        height: 280px;
+        border-radius: 50%;
+        border: 1px solid #545454;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+        background: #090931;
+    }
+
+    #about-part .img .border-div {
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        border: 2px dotted #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #about-part .img .border-div .image {
+        width: 230px;
+        height: 230px;
+        border-radius: 50%;
+        border: 1px solid #545454;
+
+
+
+    }
+
+    #about-part .img .border-div .image img {
+        width: 230px;
+        height: 230px;
+        display: block;
+
+    }
+
+
+}
+
+
+/*54352*/
+
+
+
+
+
+@media (min-width:1200px){
+    
+}
+
+@media (min-width:992px) and (max-width:1199.98px){
+    
+}
+
+@media (min-width:768px) and (max-width:991px){
+    
+}
+
+@media (min-width:576px) and (max-width:767.98px){
+    
+}
+
+@media (max-width:575px){
+    .main-menu a.navbar-brand {
+    font-size: 20px;
+    margin-left: 15px;
+    }
+    
+    header .text h1 {
+   line-height: 50px;
+    font-size: 30px;
+
+   }
+    
+    header .text h5 {
+  
+    line-height: 20px;
+    font-size: 20px;
+    }
+    header .link a {
+    padding: 10px 25px 10px 25px;
+    margin-top: 30px;
+    margin-right: 26px;
+    }
+    
+    header {
+     padding-top: 230px;
+    padding-bottom: 150px;
+     }
+    #history-part {
+    padding-top: 50px;
+    padding-bottom: 50px;
+ 
+}
+    
+    #history-part .text h1 {
+    line-height: 48px;
+    font-size: 30px;
+    padding-right: 140px;
+    padding-top: 50px;
+    }
+    #history-part .etc p {
+    line-height: 28px;
+
+    font-size: 14px;
+    margin-bottom: 30px;
+    }
+/*    ================*/
+    
+    #mercury {
+    padding: 60px 0;
+   }
+    
+    #mercury .prev, #mercury .next {
+    width: 65px;
+    height: 65px;
+    line-height: 80px;
+    font-size: 23px;
+    font-weight: 50;
+
+}
+    #mercury .headMercury a {
+   padding: 15px 30px 15px 30px;
+   }
+    
+    #choose .text h1 {
+    line-height: 48px;
+    font-size: 30px;
+     padding-top: 80px;
+    padding-bottom: 25px;
+}
+    #choose {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    #choose .column-p p {
+    padding-left: 20px;
+        padding-right: 20px;
+}
+    #photoblog .item-text h1 {
+    line-height: 48px;
+    font-size: 30px;
+      
+}
+    #photoblog .item-text{
+       padding-left: 20px; 
+        padding-bottom: 30px;
+    }
+    #photoblog p {
+  padding-left: 20px;
+        padding-right: 20px;
+}
+    footer {
+ 
+    padding-left: 50px;
+    padding-right: 50px;
+}
+    
+ 
+    
+    
+    
+    
+}
